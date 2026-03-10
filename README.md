@@ -12,3 +12,8 @@ An advanced RAG system for deep financial analysis of SEC/NSE filings.
 - **LLM:** Groq (Llama 3.3 70B)
 - **Embedding:** HuggingFace BGE
 - **UI:** Streamlit
+
+  ## Sample Questions
+- What was NVIDIA's total revenue for fiscal year 2025, and what percentage of that came from Data Center sales?
+- Compare the Research and Development (R&D) expenses of Tata Motors between 2023 and 2024
+- How does Apple describe the impact of global supply chain constraints on its product margins?
