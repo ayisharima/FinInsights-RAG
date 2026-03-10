@@ -1,0 +1,7 @@
+llama-index-core
+llama-parse           # Essential for high-quality Table extraction
+llama-index-llms-openai
+llama-index-embeddings-openai
+chromadb              # Vector Database
+streamlit             # UI
+python-dotenv
