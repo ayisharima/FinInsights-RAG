@@ -1,4 +1,4 @@
-# FinInsights-RAG 📈
+# FinInsights-RAG 
 An advanced RAG system for deep financial analysis of SEC/NSE filings.
 
 ## Key Features
